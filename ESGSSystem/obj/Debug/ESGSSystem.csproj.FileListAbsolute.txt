@@ -1,1 +1,15 @@
 c:\users\badepe\documents\visual studio 2013\Projects\ESGSSystem\ESGSSystem\bin\Debug\ESGSSystem.exe.config
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\ESGSSystem.exe.config
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\ESGSSystem.exe
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\ESGSSystem.pdb
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\Ionic.BZip2.dll
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\QueryMaster.dll
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\QueryMaster.xml
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\obj\Debug\ESGSSystem.csprojResolveAssemblyReference.cache
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\obj\Debug\ESGSSystem.Form1.resources
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\obj\Debug\ESGSSystem.Properties.Resources.resources
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\obj\Debug\ESGSSystem.csproj.GenerateResource.Cache
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\obj\Debug\ESGSSystem.exe
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\obj\Debug\ESGSSystem.pdb
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\AServerQuery.dll
+C:\Users\BaDePe\Desktop\Developing\ESGSSystem\ESGSSystem\bin\Debug\AServerQuery.pdb
